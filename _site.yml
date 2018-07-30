@@ -1,29 +1,32 @@
-name: "Kathleen Kennedy-Turner"
+name: "kathleens-website"
 output_dir: "."
 navbar:
-  title: "Kathleen Kennedy-Turner"
+  title: "Kathleen's Website"
   left:
-   - text: "Home"
+    - text: "Home"
       href: index.html
+    - text: "Projects"     ##### the new
+      href: projects.html  ##### stuff
     - text: "About Me"
       href: about.html
-    - text: "Writing"
-      href: research.html
-    #- text: "Speaking"
-     # href: talks.html
-    #- text: "Programming"
-      #href: software.html
-   # - text: "Teaching"
-     # href: teaching.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
+    #- icon: fa-envelope fa-lg
+      #href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/KathleenKT
     - icon: fa-twitter fa-lg
       href: https://twitter.com/katy_0519
    # - icon: fa-linkedin fa-lg
      # href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+output:
+  html_document:
+    theme: flatly
+    #- text: "Speaking"
+     # href: talks.html
+    #- text: "Programming"
+      #href: software.html
+   # - text: "Teaching"
+     # href: teaching.html
 #output:
  # html_document:
   #  theme: paper
