@@ -1,7 +1,7 @@
 name: "kathleens-website"
 output_dir: "."
 navbar:
-  title: "Kathleen's Website"
+  title: "Kathleen Kennedy-Turner"
   left:
     - text: "Home"
       href: index.html
@@ -19,8 +19,9 @@ navbar:
    # - icon: fa-linkedin fa-lg
      # href: https://www.linkedin.com/in/emily-zabor-59b902b7/
 output:
-  html_document:
+  rmarkdown::html_document:
     theme: flatly
+    css: style.css
     #- text: "Speaking"
      # href: talks.html
     #- text: "Programming"
