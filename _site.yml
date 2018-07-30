@@ -1,4 +1,3 @@
-
 name: "Kathleen Kennedy-Turner"
 output_dir: "."
 navbar:
@@ -10,12 +9,12 @@ navbar:
       href: about.html
     - text: "Writing"
       href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
-    - text: "Teaching"
-      href: teaching.html
+    #- text: "Speaking"
+     # href: talks.html
+    #- text: "Programming"
+      #href: software.html
+   # - text: "Teaching"
+     # href: teaching.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
