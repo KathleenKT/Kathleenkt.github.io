@@ -24,7 +24,7 @@ navbar:
       href: https://twitter.com/katy_0519
    # - icon: fa-linkedin fa-lg
      # href: https://www.linkedin.com/in/emily-zabor-59b902b7/
-output:
-  html_document:
-    theme: paper
-    css: 'styles.css'
+#output:
+ # html_document:
+  #  theme: paper
+   # css: 'styles.css'
