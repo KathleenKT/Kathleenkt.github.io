@@ -4,6 +4,10 @@ output_dir: "."
 navbar:
   title: "Kathleen Kennedy-Turner"
   left:
+   - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
     - text: "Writing"
       href: research.html
     - text: "Speaking"
