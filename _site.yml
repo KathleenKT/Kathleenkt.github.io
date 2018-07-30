@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Projects"     ##### the new
-      href: projects.html  ##### stuff
+      href: research.html  ##### stuff
     - text: "About Me"
       href: about.html
   right:
@@ -15,7 +15,7 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/KathleenKT
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/katy_0519
+      href: https://twitter.com/katy0519
    # - icon: fa-linkedin fa-lg
      # href: https://www.linkedin.com/in/emily-zabor-59b902b7/
 output:
