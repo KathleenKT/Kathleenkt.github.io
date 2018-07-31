@@ -6,7 +6,7 @@ Hello, World!
 
 Welcome to my page. Here is a little bit of information about me
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to teh development of criminality through my work as a PhD Candidate at [CRDH Concordia University](http://crdh.concordia.ca/homee.html) in the department of Psychology. 
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to the development of criminality through my work as a PhD Candidate at [CRDH Concordia University](http://crdh.concordia.ca/homee.html) in the department of Psychology. 
 
 
 
