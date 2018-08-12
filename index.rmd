@@ -2,11 +2,13 @@
 ---
 <img src="Portrait_sunglasses.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Hello, World!
+BIOGRAPHY
 
-Welcome to my page. Here is a little bit of information about me
+I discovered I wanted to go into psychology when I decided to quit natural sciences and enrolled in a technical degree. Upon graduating from this degree, I was employed in social services in the youth protection centers as an educator. Here is where I obtain all my field work experience that keeps me inspired for my research. 
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to the development of criminality through my work as a PhD Candidate at [CRDH Concordia University](http://crdh.concordia.ca/homee.html) in the department of Psychology. 
+Currently I investigate questions related to the development of criminality through my work as a PhD Candidate at [CRDH Concordia University](http://crdh.concordia.ca/homee.html) in the department of Psychology. 
+
+Other research interests include the application of evolutionary theory to developmental models, the biological basis of mental health disorders, and the development of mental health disorders. I am also interested in advanced statistical modelling including mediation based on counterfactuals. 
 
 
 

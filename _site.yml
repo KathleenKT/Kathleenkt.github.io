@@ -5,10 +5,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Projects"     ##### the new
-      href: research.html  ##### stuff
-    - text: "About Me"
-      href: about.html
+    - text: "Research"     
+      href: research.html  
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
   right:
     #- icon: fa-envelope fa-lg
       #href: contact.html
