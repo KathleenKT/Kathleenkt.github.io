@@ -3,12 +3,23 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="WABFpresentation.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/departments/epidemiology-biostatistics) in the department of Epidemiology & Biostatistics. 
+As a PhD Candidate, I am involved in several projects under the supervision of Drs. [Lisa Serbin](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=lisa-serbin) and [Dale Stack](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=dale-stack). 
 
-I graduated from the [University of Minnesota](http://www.sph.umn.edu/academics/divisions/biostatistics/) with a MS in biostatistics in 2010. In 2012 I began working toward my DrPH in biostatistics as a part-time student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), where I am investigating statistical methods for the study of etiologic heterogeneity in epidemiologic studies under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center. I expect to graduate by the end of 2018.
+Current projects (that are not my dissertation) include:
 
-I am a well-known R enthusiast, including serving on the board and being an active member of [R Ladies NYC](http://www.rladiesnyc.org/). 
+1) Predicting intergenerational health outcomes from childhood risk factors
 
-My full CV is available [here](CV_long_updated April 19 2018_for SGS.pdf).
+2) Predicting educational outcomes following a major educational reform PI: [Dr. Marie-Hélène Véronneau](https://professeurs.uqam.ca/professeur?c=veronneau.marie-helene) 
+
+3) Understanding the bidirectional relations between parenting stress, parent-child support and child externalizing behavior using multiple informers
+
+I have also been involved in the supervision of undergraduate student theses over the last 3 years. The topics included:
+
+- The association between physical health in childhood and delinquency in adolescence
+
+- Protective Factors against the Intergenerational Continuity of Risk for the
+Development of Externalizing Behaviors in an At-Risk Sample
+
+- Predicting recidivism using the NEO-5 personality inventory and crime onset
+

@@ -9,10 +9,11 @@ navbar:
       href: research.html  
     - text: "Speaking"
       href: talks.html
-    - text: "Programming"
-      href: software.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Programming"
+      href: software.html
+
   right:
     #- icon: fa-envelope fa-lg
       #href: contact.html
@@ -26,12 +27,7 @@ output:
   rmarkdown::html_document:
     theme: flatly
     css: style.css
-    #- text: "Speaking"
-     # href: talks.html
-    #- text: "Programming"
-      #href: software.html
-   # - text: "Teaching"
-     # href: teaching.html
+
 #output:
  # html_document:
   #  theme: paper
