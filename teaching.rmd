@@ -2,6 +2,7 @@
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+
 As a Graduate student instructor I have taught two classes
 Psychology 315 - Statistical Analysis 1 (Fall 2017)
 Psychology 354 - Evoutionary Foundations of Psychology (Winter 2019)

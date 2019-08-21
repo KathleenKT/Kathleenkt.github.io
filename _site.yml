@@ -21,7 +21,7 @@ navbar:
       href: http://github.com/KathleenKT
     - icon: fa-twitter fa-lg
       href: https://twitter.com/katy0519
-    - icon: fa-ResearchGate fa-lg
+    - icon: fa-researchgate fa-lg
       href: https://www.researchgate.net/profile/Kathleen_Kennedy-Turner
 output:
   rmarkdown::html_document:
